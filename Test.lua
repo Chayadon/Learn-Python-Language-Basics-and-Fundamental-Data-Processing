@@ -13,3 +13,5 @@ Array = { 'Lua', "Tutorial" }
 for i = 1, 2 do
     print(Array[i])
 end
+
+print("Hello, foo")
